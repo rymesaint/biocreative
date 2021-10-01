@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "99704980608",
+    "project_id": "artia-ffa1f",
+    "storage_bucket": "artia-ffa1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99704980608:android:8be73110df732633951265",
+        "android_client_info": {
+          "package_name": "com.chocodev.artia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99704980608-u1uhm5d5vgvfb6ivehfqtofqppn1ligu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8iLvMzYQm-b_RX4bV-pwmBvrXkoJJ4D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99704980608-u1uhm5d5vgvfb6ivehfqtofqppn1ligu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99704980608-ruclimoojth9tisr39c88ln7clqhten8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bioCreative"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99704980608:android:d43e58defb4c0287951265",
+        "android_client_info": {
+          "package_name": "com.example.bio_creative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99704980608-u1uhm5d5vgvfb6ivehfqtofqppn1ligu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8iLvMzYQm-b_RX4bV-pwmBvrXkoJJ4D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99704980608-u1uhm5d5vgvfb6ivehfqtofqppn1ligu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99704980608-ruclimoojth9tisr39c88ln7clqhten8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bioCreative"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
